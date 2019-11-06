@@ -7,7 +7,7 @@ import Projects from './projects';
 import Resume from './resume';
 
 const Routes= () => (
-    <BrowserRouter>
+    <BrowserRouter basename={process.env.PUBLIC_URL}>
         <Switch>
             <Route exact path='/' component={LandingPage} />
             <Route  exact path='/aboutme' component={AboutMe} />
