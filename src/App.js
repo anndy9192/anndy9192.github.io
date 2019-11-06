@@ -1,4 +1,5 @@
 import React from 'react';
+import { BrowserRouter } from 'react-router-dom';
 import './App.css';
 import { Layout, Header, Navigation, Drawer, Content } from 'react-mdl';
 import Routes from './components/router';
@@ -6,6 +7,7 @@ import { Link } from 'react-router-dom';
 
 function App() {
   return (
+      <BrowserRouter basename={process.env.PUBLIC_URL}>
 <div className="demo-big-content">
     <Layout>
         <Header className='header-color' title="Title" scroll>
@@ -31,6 +33,7 @@ function App() {
         </Content>
     </Layout>
 </div>
+</BrowserRouter>
   );
 }
 
