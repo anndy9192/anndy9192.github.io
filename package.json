@@ -2,7 +2,7 @@
   "name": "myportafolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://anndy9192.github.io/anndy9192.github.io",
+  "homepage": "https://anndy9192.github.io/portfolio",
   "dependencies": {
     "gh-pages": "^2.1.1",
     "react": "^16.10.1",
