@@ -1,4 +1,4 @@
-import React, { Component } from 'react'
+import React, { Component } from 'react';
 import {Grid, Cell} from 'react-mdl'
 
 class Landing extends Component {
@@ -23,7 +23,7 @@ class Landing extends Component {
                             <div className='social-links'>
 
                                 {/*LinkedIn*/}
-                                <a href='www.linkedin.com/in/andreamagallanes' rel="noopener noreferrer" target='_blank'>
+                                <a href='https://www.linkedin.com/in/andreamagallanes' rel="noopener noreferrer" target='_blank'>
                                 <i class="fa fa-linkedin-square" aria-hidden='true'/>
                                 </a>
 
