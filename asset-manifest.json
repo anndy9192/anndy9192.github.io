@@ -1,18 +1,21 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.6c2b8400.chunk.css",
-    "main.js": "/portfolio/static/js/main.63908f1d.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.63908f1d.chunk.js.map",
+    "main.css": "/portfolio/static/css/main.890151b2.chunk.css",
+    "main.js": "/portfolio/static/js/main.9ec877be.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.9ec877be.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.584f8ad6.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.584f8ad6.js.map",
     "static/css/2.04aae6c4.chunk.css": "/portfolio/static/css/2.04aae6c4.chunk.css",
-    "static/js/2.9041bff7.chunk.js": "/portfolio/static/js/2.9041bff7.chunk.js",
-    "static/js/2.9041bff7.chunk.js.map": "/portfolio/static/js/2.9041bff7.chunk.js.map",
+    "static/js/2.25b5967f.chunk.js": "/portfolio/static/js/2.25b5967f.chunk.js",
+    "static/js/2.25b5967f.chunk.js.map": "/portfolio/static/js/2.25b5967f.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "precache-manifest.50f09787ce54658eabcdcc09748b3a47.js": "/portfolio/precache-manifest.50f09787ce54658eabcdcc09748b3a47.js",
+    "precache-manifest.efa71c3aeeebb39c7e26fc223c8f8c22.js": "/portfolio/precache-manifest.efa71c3aeeebb39c7e26fc223c8f8c22.js",
     "service-worker.js": "/portfolio/service-worker.js",
     "static/css/2.04aae6c4.chunk.css.map": "/portfolio/static/css/2.04aae6c4.chunk.css.map",
-    "static/css/main.6c2b8400.chunk.css.map": "/portfolio/static/css/main.6c2b8400.chunk.css.map",
+    "static/css/main.890151b2.chunk.css.map": "/portfolio/static/css/main.890151b2.chunk.css.map",
+    "static/media/App.css": "/portfolio/static/media/7.34791137.jpg",
+    "static/media/projects.css": "/portfolio/static/media/Burguer-Kawaii-Background.78d170db.jpg",
+    "static/media/CV.jpg": "/portfolio/static/media/CV.b09da89c.jpg",
     "static/media/Foto_perfill.jpg": "/portfolio/static/media/Foto_perfill.460b7341.jpg"
   }
 }
