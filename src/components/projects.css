@@ -1,0 +1,28 @@
+.projects-burger-grid{
+ 
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position:top;
+  background: cover;
+ text-align: center;
+}
+
+.projects_card{
+  background: url('../img/Burguer-Kawaii-Background.jpg');
+  box-shadow: 5%;
+width: 40vh;
+height: 80vh; 
+margin: auto;
+
+}
+
+.titulo_proyectos{
+color: #fff;
+width: 70%; 
+height: 50%;
+margin-top: 10%;
+margin-bottom: 10%;
+margin-left: 15%;
+margin-right: 15%; 
+background: url('https://i.ibb.co/NNwqjPM/burger-kawaii.gif') center / cover
+}

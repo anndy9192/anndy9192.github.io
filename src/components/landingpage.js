@@ -1,6 +1,8 @@
 import React, { Component } from 'react';
 import { Grid, Cell } from 'react-mdl'
 import fotoPerfil from '../img/Foto_perfill.jpg'
+import Media from 'react-media';
+
 
 class Landing extends Component {
     render() {
@@ -8,12 +10,12 @@ class Landing extends Component {
             <div style={{ width: '100%', margin: 'auto' }}>
                 <Grid className='landing-grid'>
                     <Cell col={12}>
-                        <img className='avatar-img' src={fotoPerfil}
-                            alt="avatar"
-                        />
-                        
+                        <h1>
+                            Andrea Magallanes
+                        </h1>
+
                         <div className="banner-text">
-                            <h1> Front end developer </h1>
+                            <h2> Front end developer </h2>
 
                             <hr />
 

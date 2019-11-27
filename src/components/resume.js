@@ -1,9 +1,15 @@
-import React, { Component } from 'react'
+import React, { Component } from 'react';
+import { Grid } from 'react-mdl';
+import Cv from '../img/CV.jpg';
 
 class Resume extends Component {
     render(){
         return(
-            <div><h1>Resume Page</h1></div>
+            <Grid className='landing-resume' >
+            <img className='cv-img' src={Cv}
+                            alt="avatar"
+                        />
+                        </Grid>
         )
     }
 }
