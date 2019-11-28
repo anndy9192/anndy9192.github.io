@@ -15,8 +15,7 @@ class Projects extends Component {
         if (this.state.activeTab === 0) {
             return (
                 <Grid className='projects-burger-grid'>
-                    <Card className= 'projects_card' 
-                 style={{ width: '40vh', height: '80vh', margin: 'auto', background: 'url(https://i.ibb.co/n0Npd3X/Burguer-Kawaii-Background.png' }}>
+                    <Card shadow={5} style={{ width: '40vh', height: '80vh', margin: 'auto', background:'url(https://i.ibb.co/n0Npd3X/Burguer-Kawaii-Background.png' }}> 
                         <CardTitle className= 'titulo_proyectos' >
                             <span style={{ color: '#AAAA32', fontSize: '140', marginTop: '200%', fontWeight: '600' }}>
                                 BURGER-KAWAII
@@ -33,7 +32,7 @@ class Projects extends Component {
                                 </a>
                             </CardActions>
                             <CardMenu style={{ color: '#1A285E' }}>
-                                <CompartirPost Url={'https://paulinamontoya.github.io/burger-kawaii/'} Titulo={'hola'} Resumen={'adios'} />
+                                <CompartirPost Url={'https://paulinamontoya.github.io/burger-kawaii/'} Titulo={'BURGER-KAWAII'} Resumen={'Aplicación para comandas de restaurant'} />
                             </CardMenu>
                         </CardText>
                     </Card>
@@ -59,7 +58,7 @@ class Projects extends Component {
                                 </a>
                             </CardActions>
                             <CardMenu style={{ color: '#1A285E' }}>
-                                <CompartirPost Url={'https://anndy9192.github.io/GDL003-social-network/src'} Titulo={'hola'} Resumen={'adios'} />
+                                <CompartirPost Url={'https://anndy9192.github.io/GDL003-social-network/src'} Titulo={'GUANA-TACO'} Resumen={'Red social dedicada a los tacos'} />
                             </CardMenu>
                         </CardText>
                     </Card>
@@ -84,7 +83,7 @@ class Projects extends Component {
                             </a>
                         </CardActions>
                         <CardMenu style={{ color: '#1A285E' }}>
-                            <CompartirPost Url={'https://anndy9192.github.io/GDL003-movie-challenge/src/'} Titulo={'hola'} Resumen={'adios'} />
+                            <CompartirPost Url={'https://anndy9192.github.io/GDL003-movie-challenge/src/'} Titulo={'CINEPHILE ODYSSEY'} Resumen={'Web app que presenta datos sobre peliculas de culto'} />
                         </CardMenu>
                     </CardText>
                 </Card>

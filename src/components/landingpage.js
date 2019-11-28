@@ -1,8 +1,5 @@
 import React, { Component } from 'react';
-import { Grid, Cell } from 'react-mdl'
-import fotoPerfil from '../img/Foto_perfill.jpg'
-import Media from 'react-media';
-
+import { Grid, Cell } from 'react-mdl';
 
 class Landing extends Component {
     render() {

@@ -72,6 +72,10 @@
   margin: auto;
 }
 
+.social-links :hover{
+  box-shadow: 2px 2px 7px 1px #FAF3F3;
+}
+
 .social-links i {
   color: white;
   font-size: 5em;
