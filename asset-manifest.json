@@ -1,21 +1,22 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.890151b2.chunk.css",
-    "main.js": "/portfolio/static/js/main.9ec877be.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.9ec877be.chunk.js.map",
+    "main.css": "/portfolio/static/css/main.0e47c665.chunk.css",
+    "main.js": "/portfolio/static/js/main.ae9c6a3f.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.ae9c6a3f.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.584f8ad6.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.584f8ad6.js.map",
     "static/css/2.04aae6c4.chunk.css": "/portfolio/static/css/2.04aae6c4.chunk.css",
-    "static/js/2.25b5967f.chunk.js": "/portfolio/static/js/2.25b5967f.chunk.js",
-    "static/js/2.25b5967f.chunk.js.map": "/portfolio/static/js/2.25b5967f.chunk.js.map",
+    "static/js/2.501f6103.chunk.js": "/portfolio/static/js/2.501f6103.chunk.js",
+    "static/js/2.501f6103.chunk.js.map": "/portfolio/static/js/2.501f6103.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "precache-manifest.efa71c3aeeebb39c7e26fc223c8f8c22.js": "/portfolio/precache-manifest.efa71c3aeeebb39c7e26fc223c8f8c22.js",
+    "precache-manifest.6a3df6f5f357a766b8024516b62d3b05.js": "/portfolio/precache-manifest.6a3df6f5f357a766b8024516b62d3b05.js",
     "service-worker.js": "/portfolio/service-worker.js",
     "static/css/2.04aae6c4.chunk.css.map": "/portfolio/static/css/2.04aae6c4.chunk.css.map",
-    "static/css/main.890151b2.chunk.css.map": "/portfolio/static/css/main.890151b2.chunk.css.map",
+    "static/css/main.0e47c665.chunk.css.map": "/portfolio/static/css/main.0e47c665.chunk.css.map",
     "static/media/App.css": "/portfolio/static/media/7.34791137.jpg",
     "static/media/projects.css": "/portfolio/static/media/Burguer-Kawaii-Background.78d170db.jpg",
     "static/media/CV.jpg": "/portfolio/static/media/CV.b09da89c.jpg",
-    "static/media/Foto_perfill.jpg": "/portfolio/static/media/Foto_perfill.460b7341.jpg"
+    "static/media/Foto_perfill.jpg": "/portfolio/static/media/Foto_perfill.460b7341.jpg",
+    "static/media/about_me.gif": "/portfolio/static/media/about_me.36db0f9e.gif"
   }
 }
