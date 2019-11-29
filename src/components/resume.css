@@ -1,0 +1,28 @@
+.landing-resume img{
+ margin-left: 3%;
+  margin-top: -10%;
+  height: 100%;
+  width: 100%;
+}
+
+@media (min-width: 320px) and (max-width: 500px) {
+  .landing-resume img{
+   height: 100%;
+   width: 110%;
+   margin-left: -6%;
+   margin-top: -2%;
+  }
+}
+
+@media (min-width: 512px) and (max-width: 800px) {
+  .landing-resume{
+    position: fixed;
+  }
+  
+  .landing-resume img{
+    height: 100%;
+   width: 100%;
+   margin-left: -1%;
+   margin-top: -3%;
+  }
+}
