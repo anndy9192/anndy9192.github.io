@@ -16,7 +16,7 @@ class About extends Component {
 
                     </div>
                     <div className= 'imagenes'>
-                    <img src={GifAnndy} alt="avatar" style={{width: '35%', height: '400%',}} />
+                    <img src={GifAnndy} alt="avatar" />
                     </div>
                 </Cell>
             </Grid>

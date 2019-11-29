@@ -3,10 +3,14 @@
   
 }
 
+.fotoPerfil {
+  text-align: center;
+}
+
 .fotoPerfil img{
   text-align: center; 
   background-color: brown;
-  width: 20%;
+  width: 40%;
 
 }
 .contact-grid h2 {
@@ -52,3 +56,32 @@
 
 
 /*contct*/
+
+@media (min-width: 320px) and (max-width: 500px) {
+  .contact-grid p {
+    font-family: 'Sulphur Point', sans-serif;
+    font-size: 100%;
+    color: rgb(15, 9, 70);
+    font-weight: bold;
+    width: 75%;
+    margin-top:5%;
+    margin-left: 15%;
+    margin-right: 20%;
+    padding-top: 1%
+  }
+  
+.contact-grid h2 {
+  font-family: 'Anton', sans-serif;
+  font-size: 225%;
+  color: rgb(15, 9, 70);
+  text-align: center;
+}
+
+.contact-list i {
+  font-size: 140%;
+  padding-right: 1rem;
+}
+}
+
+@media (min-width: 512px) and (max-width: 800px) {
+}

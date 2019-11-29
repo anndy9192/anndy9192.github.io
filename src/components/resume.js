@@ -5,11 +5,13 @@ import Cv from '../img/CV.jpg';
 class Resume extends Component {
     render(){
         return(
-            <Grid className='landing-resume' >
-            <img className='cv-img' src={Cv}
+            <div className='landing-resume'>
+            <Grid  >
+            <img className='cv-img' style={{marginTop:'-10%'}} src={Cv}
                             alt="avatar"
                         />
                         </Grid>
+                        </div>
         )
     }
 }

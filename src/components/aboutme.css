@@ -1,11 +1,36 @@
 .aboutme-grid{
-  
   text-align: center;
   width: 100%;
   height: 100%;
 }
 
-.imagenes{
-
+.aboutme-grid h1{
+  font-family: 'Itim';
+  font-size: 700%;
+}
+.imagenes img{
+  width: 35%;
+  height: 400%;
   text-align: center;
+}
+
+@media (min-width: 320px) and (max-width: 500px) {
+  
+.aboutme-grid h1{
+  font-family: 'Itim';
+  font-size: 400%;
+}
+  .imagenes img{
+    width: 65%;
+    height: 500%;
+    text-align: center;
+  }
+}
+
+@media (min-width: 512px) and (max-width: 800px) {
+  .imagenes img{
+    width: 65%;
+    height: 500%;
+    text-align: center;
+  }
 }
