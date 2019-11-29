@@ -15,8 +15,8 @@ class Contact extends Component {
                         <div className='fotoPerfil'>
                         <img  src={fotoPerfil} alt="avatar" />
                         </div>
-                        <p>Estoy conociendo el medio y estoy abierta a cualquier empresa que me permita desarrollarme tanto personalmente como profecionalmente.
-                        Una empresa que me permita poner en practica todos mis conocimientos y que crea en los beneficios de incorporar a gente joven al equipo y recibir enseñanza profesional a través de ella. </p>
+                        <p>Estoy conociendo el medio y estoy abierta a cualquier empresa que me permita desarrollarme tanto personalmente como profesionalmente.
+                        Una empresa que me permita poner en practica todos mis conocimientos y que crea en los beneficios de incorporar a gente joven al equipo y recibir enseñanza profesional a través de ella.</p>
                     </Cell>
                     <Cell col={6}>
                         <h2>Contactame</h2>
