@@ -22,13 +22,15 @@
 
 .landing-grid h1{
   font-family: 'Itim';
-  font-size: 1010%;
+  font-size: 1100%;
   color: #bbb;
 }
 
 .landing-grid h2{
+  padding-top: 2%;
+  padding-bottom: 2%;
   font-family: 'Itim';
-  font-size: 510%;
+  font-size: 610%;
   color: #bbb;
   margin-top: 10%;
 }
@@ -48,7 +50,7 @@
 }
 
 .banner-text h1 {
-  font-size: 66px;
+  font-size: 80%;
   font-weight: bold;
   color: white;
 }
@@ -108,4 +110,4 @@
 
 
 
-@media
+@media 

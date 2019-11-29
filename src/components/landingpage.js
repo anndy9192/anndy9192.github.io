@@ -16,7 +16,7 @@ class Landing extends Component {
 
                             <hr />
 
-                            <p>HTML/CSS | JavaScript | React | React Native | NodeJS | Firebase</p>
+                            <p>HTML/CSS| Git/Github | JavaScript | React | React Native | NodeJS | Firebase</p>
 
                             <div className='social-links'>
 

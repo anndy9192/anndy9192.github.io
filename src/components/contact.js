@@ -8,11 +8,13 @@ class Contact extends Component {
     render() {
         return (
 
-            <div>
+            <div className='columnas'>
                 <Grid className='contact-grid'>
                     <Cell col={6}>
                         <h2> Andrea Magallanes </h2>
-                        <img src={fotoPerfil} alt="avatar" />
+                        <div className='fotoPerfil'>
+                        <img  src={fotoPerfil} alt="avatar" />
+                        </div>
                         <p>Estoy conociendo el medio y estoy abierta a cualquier empresa que me permita desarrollarme tanto personalmente como profecionalmente.
                         Una empresa que me permita poner en practica todos mis conocimientos y que crea en los beneficios de incorporar a gente joven al equipo y recibir enseñanza profesional a través de ella. </p>
                     </Cell>

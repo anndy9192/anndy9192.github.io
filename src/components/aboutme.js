@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { Grid, Cell } from 'react-mdl';
+import { Grid, Cell,  } from 'react-mdl';
 import '../components/aboutme.css';
 import GifAnndy from '../img/about_me.gif'
 
@@ -12,8 +12,11 @@ class About extends Component {
                     <h1>
                         Andrea Magallanes
                     </h1>
+                    <div>
+
+                    </div>
                     <div className= 'imagenes'>
-                    <img src={GifAnndy} alt="avatar" />
+                    <img src={GifAnndy} alt="avatar" style={{width: '35%', height: '400%',}} />
                     </div>
                 </Cell>
             </Grid>
