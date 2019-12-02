@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ad58675ff8d4677dd8bec33185214d1b",
+    "revision": "6ba7a8000cde877eb94fc2ff09de5169",
     "url": "/portfolio/index.html"
   },
   {
-    "revision": "9a5e72590edeccca7869",
+    "revision": "64451e2d946561d6b72d",
     "url": "/portfolio/static/css/2.04aae6c4.chunk.css"
   },
   {
-    "revision": "ff397f984a87f9795e93",
-    "url": "/portfolio/static/css/main.88554d3e.chunk.css"
+    "revision": "897c7582da4bf99064b8",
+    "url": "/portfolio/static/css/main.88f2306b.chunk.css"
   },
   {
-    "revision": "9a5e72590edeccca7869",
-    "url": "/portfolio/static/js/2.5609c967.chunk.js"
+    "revision": "64451e2d946561d6b72d",
+    "url": "/portfolio/static/js/2.25ecdf53.chunk.js"
   },
   {
-    "revision": "ff397f984a87f9795e93",
-    "url": "/portfolio/static/js/main.c2929c96.chunk.js"
+    "revision": "897c7582da4bf99064b8",
+    "url": "/portfolio/static/js/main.6569b79a.chunk.js"
   },
   {
     "revision": "1be5c09febf4a7695d74",
@@ -32,8 +32,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/media/Burguer-Kawaii-Background.78d170db.jpg"
   },
   {
-    "revision": "b09da89c21cb4f0e5d4b7e2ef89aa92a",
-    "url": "/portfolio/static/media/CV.b09da89c.jpg"
+    "revision": "0b2dbb0ae2871eaa65725ef55015ee6c",
+    "url": "/portfolio/static/media/CVBeatrizAndreaMagallanesQuezadaa.0b2dbb0a.pdf"
   },
   {
     "revision": "460b7341828066daf5255a7c00404a75",
@@ -42,5 +42,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "1445749ff6eeecdb5aa02ce1438fe438",
     "url": "/portfolio/static/media/about_me.1445749f.gif"
+  },
+  {
+    "revision": "5e478e261f4f168dab3aa0fdcc74c5ab",
+    "url": "/portfolio/static/media/anndy_foto.5e478e26.png"
   }
 ]);
